@@ -194,7 +194,7 @@ MIT License
 ## 👤 Author
 
 **Your Name**
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: https://github.com/megha969
 
 ---
 
